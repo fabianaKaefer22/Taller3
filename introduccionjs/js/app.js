@@ -1,6 +1,6 @@
 
 /*var i = 10;
-var nombre = 'Fabiana';
+var nombre = 'Fabianak';
 var f = function () {
 	alert('Saludo');
 }
